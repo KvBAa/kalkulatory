@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <url>
+    <loc>https://zdrowepodejscie.blog/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/o-mnie/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/shop/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/calculators/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/posts/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/contact/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://zdrowepodejscie.blog/recipes/</loc>
+    <lastmod>2025-06-12T07:01:56+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
